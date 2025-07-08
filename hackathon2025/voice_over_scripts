@@ -1,0 +1,133 @@
+
+Certainly! Here’s a **voice-over script** for your demonstration video based on the complete interaction flow between the user and **AICA**, the virtual client assistant via Teams, addressing an issue with **order validation in the GOM application**.
+
+---
+
+### **\[Voice-Over Script – GOM + AICA Order Validation Support Demo]**
+
+> **\[Intro – Professional, warm tone]**
+> "Let’s take a look at how the GOM application and AICA, your virtual assistant, work together to resolve issues—fast."
+
+---
+
+> **\[Scene: User logs into GOM and opens an order]**
+> "Taylor logs into the GOM application to validate a pending order."
+
+> **\[Scene: User clicks ‘Validate’ – error message appears]**
+> "But when Taylor clicks ‘Validate’… an error stops the process. The validation fails."
+
+---
+
+> **\[Scene: Taylor opens Microsoft Teams, starts a conversation with AICA]**
+> "Instead of guessing, Taylor turns to AICA(pronounced Ai-ka)—the virtual client assistant—right inside Microsoft Teams."
+
+---
+
+> **\[Scene: AICA greets the user, friendly tone, prompt for details]**
+> "AICA responds instantly with a friendly greeting and asks for a few quick details—Taylor’s T-number and environment."
+
+---
+
+> **\[Scene: Taylor enters the requested information]**
+> "Taylor provides the information, and AICA validates the identity."
+
+---
+
+> **\[Scene: AICA says 'How can I help today?']**
+> "Now authenticated, AICA is ready to assist."
+
+---
+
+> **\[Scene: Taylor sends a screenshot of the error in chat]**
+> "Taylor shares a screenshot of the validation error."
+
+---
+
+> **\[Scene: AICA processes the image, analyzes the error]**
+> "AICA scans the image, cross-references it with its internal knowledge store, and begins investigating."
+
+---
+
+> **\[Scene: AICA identifies the root cause]**
+> "In seconds, AICA identifies the issue: Taylor’s account is missing access to the validation widget."
+
+---
+
+> **\[Scene: Taylor asks AICA for access links]**
+> "Taylor replies: 'Can you help me get access?'"
+
+---
+
+> **\[Scene: AICA replies with a link to request permissions]**
+> "AICA provides the exact link to request the missing permission—and explains that once approved, Taylor can retry the validation."
+
+---
+
+> **\[Scene: Taylor smiles, clicks the link, issue on its way to resolution]**
+> "It’s that easy. No more guesswork, no more long support wait times."
+
+---
+
+> **\[Outro – Confident, positive tone]**
+> "With GOM and AICA working side by side, users get proactive, intelligent help—exactly when they need it. Fast answers. Fewer delays. Smarter support."
+
+---
+
+Would you like this script adapted for a specific length (e.g., 60 or 90 seconds), or with optional on-screen captions/dialogue to match the voice-over timing?
+
+// Scene 1: User opens Microsoft Teams and starts chat with AICA
+A new user, Jordan, needs to access the Client Limit GUI in the UAT environment of the Topaz application.  
+Unsure where to begin, Jordan reaches out to AICA for help.
+
+
+// Scene 2: AICA greets Jordan
+AICA responds instantly with a friendly greeting and says, “Hi Jordan! How can I assist you today?”
+
+
+// Scene 3: Jordan explains the need
+Jordan replies, “I’m new to TOPAZ and I need the Client Limit GUI link in UAT.”
+
+
+// Scene 4: AICA searches knowledge store
+AICA navigates through its knowledge store to find the right information.
+
+
+// Scene 5: AICA provides the application link
+AICA shares the correct link to the Client Limit GUI in the UAT environment.
+
+
+// Scene 6: Jordan logs in to the GUI
+Jordan clicks the link and logs into the application—but quickly realizes something’s wrong.
+
+
+// Scene 7: Access denied screen appears
+He doesn’t have access to the Client Limit GUI.  
+Frustrated, he turns back to AICA.
+
+
+// Scene 8: Jordan asks AICA to check access
+“Can you check if I have access to this tool?” he types.
+
+
+// Scene 9: AICA checks permissions
+AICA runs a quick check and confirms Jordan is missing the required access permissions.
+
+
+// Scene 10: AICA provides access request link
+To help him move forward, AICA instantly provides the access request link.
+
+
+// Scene 11: Jordan clicks the link – resolution in progress
+Jordan follows the link to request access—he’s now just one step away from getting started.
+
+
+// Scene 12: Closing summary
+With AICA, even new users can get up and running in unfamiliar environments—fast, supported, and stress-free.
+
+
+// Scene 13: Final closing summary
+Whether it’s resolving a validation error in GOM or accessing a new tool in TOPAZ, AICA is here to help.  
+
+With instant responses, intelligent troubleshooting, and direct access support, AICA empowers users to overcome blockers—without the wait.  
+
+From new joiners to experienced users, AICA ensures everyone can work smarter, faster, and with confidence.
